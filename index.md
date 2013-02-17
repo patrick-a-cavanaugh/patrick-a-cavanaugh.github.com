@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Hello World!
+title: Homepage of Patrick Cavanaugh
 ---
 {% include JB/setup %}
 
-## My Site
+## Most recent posts
 
-I was bored and deleted my old site again. Hurray? Maybe I'll put something on this new one :)
+<ul>
+  {% for post in site.posts %}
+  <li>
+<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>

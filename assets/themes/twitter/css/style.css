@@ -68,4 +68,21 @@ body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+
+/* custom ======================================================== */
+
+.img {
+    text-align: center;
+}
+
+.img-caption img {
+    display: block;
+    margin: 0 auto 0.5em;
+    max-width: 100%;
+}
+
+.img-caption p {
+    margin: 0.5em auto 1em;
+    color: #333;
+    font-style: italic;
+}

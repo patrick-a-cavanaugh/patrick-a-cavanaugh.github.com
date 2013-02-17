@@ -1,0 +1,4 @@
+_drafts/*  # prevent jekyll from parsing your draft posts
+_site/
+_site/*    # these are the generated html files, github-jekyll will build this on its own
+DS_Store* # on a mac
