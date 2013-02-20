@@ -16,7 +16,7 @@ After arriving at Atatürk airport, we looked around the airport a bit for the p
 
 <div class="img img-caption">
   <img src="/assets/images/2013-02-17/hayasofya_night_580x387.jpg" width="580" height="387" alt="" />
-  <p>Haya Sofya (Hagia Sophia) at night, which we passed on our way to find find</p>
+  <p>Haya Sofya (Hagia Sophia) at night, which we passed on our way to find food.</p>
 </div>
 
 <div class="img img-caption">
