@@ -27,7 +27,7 @@ Quite a bit of the Byzantine-era art inside the church still survives and the st
 
 <div class="img img-caption">
   <img src="/assets/images/2013-03-10/P1010337.jpg" width="580" height="387" alt="" />
-  <p>Mosaic in the south gallery, showing Christ flanked by the Byzantine empress Zoe and her husband.</p>
+  <p>Mosaic in the south gallery, showing Christ flanked by the Virgin and John the Baptist.</p>
 </div>
 
 After Hagia Sophia we went looking for the Islamic Arts museum, but went into a different art museum instead sort-of by accident. (Actually, the Museum of Turkish and Islamic Arts is closed for renovation all year so we couldn’t have gone in anyway.) I *think* that the museum we actually went to was the Marmara University art gallery - it was a fairly small museum with only 1 floor and corridor open to visitors with a number of 20th century Turkish pieces. My favorite was a room devoted to [İhap Hulusi Görey](http://en.wikipedia.org/wiki/%C4%B0hap_Hulusi_G%C3%B6rey) which showed a great collection of his works. There is a [virtual exhibition](http://www.ihaphulusi.gen.tr/sanalsergi.html) online where some of them can be seen.
