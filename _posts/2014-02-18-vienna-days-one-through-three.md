@@ -16,7 +16,7 @@ So after the somewhat uneventful, if a bit anxiety-inducing, run up to departure
 
 <div class="img img-caption">
   <img src="/assets/images/2014-02-18/2014-02-14-istanbul.jpg" width="580" alt="" />
-  <p>Istanbul Airport/p>
+  <p>Istanbul Airport</p>
 </div>
 
 ## Vienna
